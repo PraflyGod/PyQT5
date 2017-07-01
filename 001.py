@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-# -*- coding: utf-8 -*-
+#coding=utf-8
 
 """
 ZetCode PyQt5 教程
