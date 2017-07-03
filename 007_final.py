@@ -59,7 +59,7 @@ class Example(QWidget):
         if reply == QMessageBox.Yes:
             QCoreApplication.instance().quit()
         else:
-            QCoreApplication.instance().quit()
+            pass
         	
     def closeEvent(self, event):
          
